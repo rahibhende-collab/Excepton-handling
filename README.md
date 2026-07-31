@@ -5,7 +5,8 @@ This project is a Java Console-Based Banking Application that demonstrates the u
 
 The project focuses on improving program reliability by using Java's exception handling mechanisms to prevent application crashes and provide meaningful error messages.
 
-🚀 Features
+🚀 Features:
+-----------------------------------------------------------------------------
 Deposit money into a bank account.
 Withdraw money from the account.
 Check current account balance.
@@ -13,12 +14,15 @@ Handle insufficient balance during withdrawal.
 Validate invalid user inputs.
 Demonstrate Java exception handling using try, catch, finally, and custom exceptions.
 Simple menu-driven console interface.
-🛠️ Technologies Used
+
+🛠️ Technologies Used:
 Java
 Object-Oriented Programming (OOP)
 Exception Handling
 Console-Based Application
-📖 Concepts Covered
+
+📖 Concepts Covered :
+
 Java Exception Handling
 try, catch, finally
 throw and throws
