@@ -16,6 +16,7 @@ Demonstrate Java exception handling using try, catch, finally, and custom except
 Simple menu-driven console interface.
 
 🛠️ Technologies Used:
+---------------------------------------------------------------------------------
 Java
 Object-Oriented Programming (OOP)
 Exception Handling
