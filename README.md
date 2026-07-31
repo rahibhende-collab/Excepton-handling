@@ -23,6 +23,7 @@ Exception Handling
 Console-Based Application
 
 📖 Concepts Covered :
+---------------------------------------------------------------------------------
 
 Java Exception Handling
 try, catch, finally
