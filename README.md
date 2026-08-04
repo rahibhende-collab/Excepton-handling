@@ -1,5 +1,8 @@
 Exception Handling in Bank Account Transactions
+
 📌 Overview
+-----------------------------------------------------------------------------
+
 
 This project is a Java Console-Based Banking Application that demonstrates the use of Exception Handling during bank account transactions. It simulates common banking operations such as depositing money, withdrawing funds, and checking the account balance while ensuring that invalid operations are handled gracefully.
 
